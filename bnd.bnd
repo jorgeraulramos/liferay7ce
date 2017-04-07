@@ -1,0 +1,3 @@
+Bundle-Name: my-mvc-portlet-project
+Bundle-SymbolicName: com.consistent.mvcportlet.portlet
+Bundle-Version: 1.0.0
